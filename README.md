@@ -1,1 +1,3 @@
 # landing-page
+
+Landing Page Project for The Odin Project. The task is to replicate a website given a [picture reference](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) and a set of [colours and font styles](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png).
